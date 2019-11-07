@@ -1,0 +1,17 @@
+{
+  "block.engineadditions.aluminumblock": "Aluminum Block",
+  "block.engineadditions.aluminumore": "Aluminum Ore",
+  "block.engineadditions.copperblock": "Copper Block",
+  "block.engineadditions.copperore": "Copper Ore",
+  "block.engineadditions.leadblock": "Lead Block",
+  "block.engineadditions.leadore": "Lead Ore",
+  "block.engineadditions.nickelblock": "Nickel Block",
+  "block.engineadditions.nickelore": "Nickel Ore",
+  "block.engineadditions.silverblock": "Silver Block",
+  "block.engineadditions.silverore": "Silver Ore",
+  "block.engineadditions.tinblock": "Tin Block",
+  "block.engineadditions.tinore": "Tin Ore",
+
+  "_comment": "Creative Tab",
+  "itemGroup.engineadditions": "Engine Additions"
+}
