@@ -12,6 +12,8 @@
   "block.engineadditions.tinblock": "Tin Block",
   "block.engineadditions.tinore": "Tin Ore",
 
+  "item.engineadditons.aluminumingot": "Aluminum Ingot",
+
   "_comment": "Creative Tab",
   "itemGroup.engineadditions": "Engine Additions"
 }
