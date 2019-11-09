@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "engineadditions:item/aluminumingot"
+    "layer0": "engineadditions:item/silveringot"
   }
 }

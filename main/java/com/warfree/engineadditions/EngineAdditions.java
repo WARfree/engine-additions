@@ -1,7 +1,7 @@
 package com.warfree.engineadditions;
 
 import com.warfree.engineadditions.blocks.*;
-import com.warfree.engineadditions.items.AluminumIngot;
+import com.warfree.engineadditions.items.*;
 import com.warfree.engineadditions.setup.ClientProxy;
 import com.warfree.engineadditions.setup.IProxy;
 import com.warfree.engineadditions.setup.ModSetup;
@@ -80,6 +80,11 @@ public class EngineAdditions {
             event.getRegistry().register(new BlockItem(ModBlocks.SILVERORE, properties).setRegistryName("silverore"));
             event.getRegistry().register(new BlockItem(ModBlocks.TINORE, properties).setRegistryName("tinore"));
             event.getRegistry().register(new AluminumIngot());
+            event.getRegistry().register(new CopperIngot());
+            event.getRegistry().register(new LeadIngot());
+            event.getRegistry().register(new NickelIngot());
+            event.getRegistry().register(new SilverIngot());
+            event.getRegistry().register(new TinIngot());
         }
     }
 }

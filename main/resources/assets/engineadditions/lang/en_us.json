@@ -12,7 +12,12 @@
   "block.engineadditions.tinblock": "Tin Block",
   "block.engineadditions.tinore": "Tin Ore",
 
-  "item.engineadditons.aluminumingot": "Aluminum Ingot",
+  "item.engineadditions.aluminumingot": "Aluminum Ingot",
+  "item.engineadditions.copperingot": "Copper Ingot",
+  "item.engineadditions.leadingot": "Lead Ingot",
+  "item.engineadditions.nickelingot": "Nickel Ingot",
+  "item.engineadditions.silveringot": "Silver Ingot",
+  "item.engineadditons.tiningot": "Tin Ingot",
 
   "_comment": "Creative Tab",
   "itemGroup.engineadditions": "Engine Additions"
