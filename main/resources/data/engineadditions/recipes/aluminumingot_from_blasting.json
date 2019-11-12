@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "engineadditions:aluminumore"
+  },
+  "result": "engineadditions:aluminumingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

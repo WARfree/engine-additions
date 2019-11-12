@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tin_block",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "engineadditions:tiningot"
+    }
+  },
+  "result": {
+    "item": "engineadditions:tinblock"
+  }
+}

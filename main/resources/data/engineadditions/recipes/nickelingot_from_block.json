@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "nickel_ingot",
+  "ingredients": [
+    {
+      "item": "engineadditions:nickelblock"
+    }
+  ],
+  "result": {
+    "item": "engineadditions:nickelingot",
+    "count": 9
+  }
+}

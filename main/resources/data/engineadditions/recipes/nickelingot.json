@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "engineadditions:nickelore"
+  },
+  "result": "engineadditions:nickelingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "silver_block",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "engineadditions:silveringot"
+    }
+  },
+  "result": {
+    "item": "engineadditions:silverblock"
+  }
+}

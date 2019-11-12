@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "engineadditions:silverore"
+  },
+  "result": "engineadditions:silveringot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

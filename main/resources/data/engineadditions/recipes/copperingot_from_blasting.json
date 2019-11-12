@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "engineadditions:copperore"
+  },
+  "result": "engineadditions:copperingot",
+  "experience": 0.7,
+  "cookingtime": 100
+}

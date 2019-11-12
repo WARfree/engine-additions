@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aluminum_ingot",
+  "ingredients": [
+    {
+      "item": "engineadditions:aluminumblock"
+    }
+  ],
+  "result": {
+    "item": "engineadditions:aluminumingot",
+    "count": 9
+  }
+}

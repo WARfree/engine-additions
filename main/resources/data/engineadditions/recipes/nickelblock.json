@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nickel_block",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "engineadditions:nickelingot"
+    }
+  },
+  "result": {
+    "item": "engineadditions:nickelblock"
+  }
+}

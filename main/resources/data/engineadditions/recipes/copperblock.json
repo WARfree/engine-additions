@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "copper_block",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "engineadditions:copperingot"
+    }
+  },
+  "result": {
+    "item": "engineadditions:copperblock"
+  }
+}
